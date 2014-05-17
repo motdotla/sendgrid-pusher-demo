@@ -38,3 +38,20 @@ Send an email to [hi@color.webhook.email](mailto:hi@color.webhook.email). Set th
 Watch the background change colors.
 
 
+## Approach
+
+* Cmd + F1
+* I'm with a cool API company called SendGrid.
+* We make it easy to send and receive email from your applications.
+* Rather than talk about it let me show you.
+* **show sending** It's as easy as building a url and pasting it in your browser.
+* We have libraries too.
+* You can use this for signup emails, password resets, notifications, whatever you can imagine.
+* But that's not all. We do receiving email too.
+* Demo the receiving.
+* Announce prize.
+
+![](http://media0.giphy.com/media/3yETZB0oWiB7G/200.gif)
+
+
+
