@@ -1,0 +1,10 @@
+body {
+  background: cornflowerblue;
+  color: white;
+  border: 40px solid cornflowerblue;
+}
+h1, h2, h3, h4, h5 {
+  color: white;
+  word-wrap:break-word;
+  text-align: left;
+}
