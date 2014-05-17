@@ -1,5 +1,7 @@
 # sendgrid-pusher-demo
 
+![](https://s3.amazonaws.com/giphymedia/media/DupMFENd0g6bu/200.gif)
+
 Demo of using SendGrid's Parse API with Pusher to change the background color. Copycatted from [Kunal](https://github.com/kunal732)'s excellent <http://hook.meteor.com>.
 
 ## Guide
