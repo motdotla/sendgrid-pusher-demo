@@ -20,10 +20,8 @@ Edit the Pusher key at about line 19 of public/index.html.
 
 Visit <https://sendgrid.com/developer/reply> and set the following.
 
-| -       | -                               |
-|---------|---------------------------------|
-|Hostname |color.webhook.email              |
-|Url      |https://color.ngrok.com/inbound  |
+* Hostname: color.webhook.email
+* Url: https://color.ngrok.com/inbound
 
 Save it.
 
