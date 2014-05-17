@@ -11,8 +11,8 @@ Edit contents of recipients.csv
 Edit contents of template.html
 
 ```
-postman -html template.html -csv recipients.csv \
+postman -text template.txt -html template.html -csv recipients.csv \
     -sender "Scott Motte <scott.motte@sendgrid.com>" \
-    -subject "[Music Hack Day SF] " -server smtp.sendgrid.net -port 587 \
+    -subject "[Music Hack Day SF] If you need help I'm in the blue LA hat" -server smtp.sendgrid.net -port 587 \
     -user your_username -password your_password
 ```

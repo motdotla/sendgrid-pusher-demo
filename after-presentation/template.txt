@@ -1,0 +1,29 @@
+Hey Hacker,
+
+You're at Music Hack Day SF (https://musichackdaysf.splashthat.com/) ! Build some cool ish.
+
+I'll be in the blue LA hat (http://twitter.com/scottmotte) if you need a hand with code (https://github.com/scottmotte) . I'm here as a mentor, not just a sponsor. I suck at .NET.
+
+If you decide to use SendGrid (http://sendgrid.com) find or email me (mailto:mot@sendgrid.com) so I can provision your free account in 30 seconds. Here's some links.
+
+Signup / Docs
+* docs (http://sendgrid.com/docs)
+* signup (http://hack.sendgrid.com)
+
+Libraries
+* sendgrid-nodejs (http://github.com/sendgrid/sendgrid-nodejs)
+* sendgrid-python (http://github.com/sendgrid/sendgrid-python)
+* sendgrid-go (http://github.com/sendgrid/sendgrid-go)
+* github.com/sendgrid (all libs) (http://github.com/sendgrid)
+
+Prize for best use of SendGrid API
+* Up to 4 Penny Sakeboards (http://www.pennyskateboardsonline.com/)
+
+http://pennyskateboarding.tumblr.com/
+
+Hack hard. Here's some (http://open.spotify.com/track/4UWvvzpkEgiSAqyxxKv7Mj) music (http://open.spotify.com/track/3iIrtgucy1S2IMtozeYARI) while (http://open.spotify.com/track/62iE88Z0WJqRWnWlIWMdcg) you're (http://open.spotify.com/track/6zlOUIqcU6juXFww9UNpJK) at (http://open.spotify.com/track/7b71WsDLb8gG0cSyDTFAEW) it (http://open.spotify.com/track/0U0ldCRmgCqhVvD6ksG63j) .
+
+Scotty
+
+You can get in touch with me
+→ @scottmotte (http://twitter.com/scottmotte)
