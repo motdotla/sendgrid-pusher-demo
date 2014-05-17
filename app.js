@@ -30,7 +30,9 @@ server.route({
   method: 'POST',
   path:   '/inbound',
   handler: function (request, reply) {
-    pusher.trigger('test_channel', 'my_event', {"message": "from app"});
+    console.log(request.payload);
+
+    pusher.trigger('sendgrid-pusher-demo', 'inbound', request.payload);
 
     reply({success: true});
   }

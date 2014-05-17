@@ -2,19 +2,26 @@
 <head>
   <title>SendGrid Demo</title>
   <script src="http://js.pusher.com/2.2/pusher.min.js" type="text/javascript"></script>
+  <link rel='stylesheet' href='/css/min.css' type='text/css' media='all' />
+  <link rel='stylesheet' href='/css/style.css' type='text/css' media='all' />
 </head>
 <body>
-  <h3>SendGrid Demo</h3>
+  <br/>
+  <h2>Change the <span class='green'>background</span> <span class='blue'>color</span> <span class='red'>of</span> <span class='purple'>this<span> <span class='pink'>page</span>.</h2>
+  <br/>
   <h1>
-    Send an email to <a href="mailto:hi@color.webhook.email">hi@color.webhook.email</a>
+    Send an email to: <a href="mailto:hi@color.webhook.email">hi@color.webhook.email</a>
   </h1>
+  <br/>
+  <h2>Set subject to <span class='green'>green</span>, or <span class='blue'>blue</span>, etc.</h2>
 
   <script type="text/javascript">
     var pusher = new Pusher('cc9538c03d4e16c6db81');
-    var channel = pusher.subscribe('test_channel');
-    channel.bind('my_event', function(data) {
+    var channel = pusher.subscribe('sendgrid-pusher-demo');
+    channel.bind('inbound', function(data) {
       var color = data.subject.trim();
       console.log(color);
+
       document.body.style.backgroundColor = color;
     });
   </script>

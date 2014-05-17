@@ -29,7 +29,9 @@ ngrok -subdomain color 3000
 ```
 
 (don't have ngrok, [install it](https://ngrok.com))
-Send an email to [color@color.webhook.email](mailto:color@color.webhook.email). Set the subject to a color - like 'red', or 'blue'.
 
+Send an email to [hi@color.webhook.email](mailto:hi@color.webhook.email). Set the subject to a color - like 'red', or 'blue'.
+
+Watch the background change colors.
 
 
