@@ -4,6 +4,8 @@ Send an email to everyone that sent in to the inbound portion of the demo.
 
 ## Usage
 
+Install [postman](https://github.com/zachlatta/postman).
+
 Edit contents of recipients.csv
 
 Edit contents of template.html
