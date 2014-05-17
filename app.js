@@ -24,7 +24,6 @@ server.route({
   }
 });
 
-
 // Add the inbound route
 server.route({
   method: 'POST',
