@@ -14,11 +14,6 @@ cp .env.example .env
 
 Edit .env with your credentials.
 
-```
-npm install
-node app.js
-```
-
 Visit <https://sendgrid.com/developer/reply> and set the following.
 
 |---------|---------------------------------|
@@ -27,6 +22,13 @@ Visit <https://sendgrid.com/developer/reply> and set the following.
 
 Save it.
 
+```
+npm install
+node app.js
+ngrok -subdomain color 3000
+```
+
+(don't have ngrok, [install it](https://ngrok.com))
 Send an email to [color@color.webhook.email](mailto:color@color.webhook.email). Set the subject to a color - like 'red', or 'blue'.
 
 
