@@ -30,3 +30,5 @@ node_modules
 
 .env
 !.env.example
+*recipients.csv
+!recipients.csv
