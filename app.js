@@ -39,5 +39,5 @@ server.route({
 
 // Start the server
 server.start(function() {
-  console.log('Handshake.js server started at: ' + server.info.uri);
+  console.log('sendgrid-pusher-demo server started at: ' + server.info.uri);
 });
